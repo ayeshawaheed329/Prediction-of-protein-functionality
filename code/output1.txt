@@ -1,0 +1,4 @@
+TGTTTTTGGTAAGA1JK0 Ribonucleotide reductase Y2Y4 heterodimer
+Classification: OXIDOREDUCTASE
+Organism(s): Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Expression System: Escherichia coli BL21(DE3)
